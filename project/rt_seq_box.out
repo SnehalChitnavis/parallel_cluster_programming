@@ -1,0 +1,7 @@
+Scene: Complex Scene
+Width x Height: 100 x 100
+Partitioning scheme: 0
+Number of Processes: 1
+Execution Time: 2.39 seconds
+
+Image will be save to: renders/rt_100x100_seq_p1_103016-170936.png
